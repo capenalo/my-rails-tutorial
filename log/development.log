@@ -1,0 +1,2132 @@
+
+
+Started GET "/" for 35.40.84.135 at 2016-02-14 15:35:47 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (5.4ms)
+Completed 200 OK in 60ms (Views: 40.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 35.40.84.135 at 2016-02-14 16:31:55 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 1635ms (Views: 1619.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-14 16:31:57 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 35.40.84.135 at 2016-02-14 16:31:57 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 35.40.84.135 at 2016-02-14 16:31:57 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-14 16:31:57 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 35.40.84.135 at 2016-02-14 16:31:57 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 35.40.84.135 at 2016-02-14 16:31:57 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 35.40.84.135 at 2016-02-14 16:31:57 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 35.40.84.135 at 2016-02-14 16:34:37 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 390ms (Views: 370.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 35.40.84.135 at 2016-02-14 16:34:38 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 35.40.84.135 at 2016-02-14 16:34:38 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-14 16:34:38 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 35.40.84.135 at 2016-02-14 16:34:38 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 35.40.84.135 at 2016-02-14 16:34:38 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 35.40.84.135 at 2016-02-14 16:34:38 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-14 16:34:38 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 16:34:56 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (uninitialized constant ArticlesController):
+  activesupport (4.2.5) lib/active_support/inflector/methods.rb:261:in `const_get'
+  activesupport (4.2.5) lib/active_support/inflector/methods.rb:261:in `block in constantize'
+  activesupport (4.2.5) lib/active_support/inflector/methods.rb:259:in `each'
+  activesupport (4.2.5) lib/active_support/inflector/methods.rb:259:in `inject'
+  activesupport (4.2.5) lib/active_support/inflector/methods.rb:259:in `constantize'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:72:in `controller_reference'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:62:in `controller'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:41:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `each'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:817:in `call'
+  rack (1.6.4) lib/rack/etag.rb:24:in `call'
+  rack (1.6.4) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.4) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.5) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.5) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  activerecord (4.2.5) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (41.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (181.1ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 16:36:15 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+AbstractController::ActionNotFound (The action 'new' could not be found for ArticlesController):
+  actionpack (4.2.5) lib/abstract_controller/base.rb:132:in `process'
+  actionview (4.2.5) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.5) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.2.5) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.5) lib/action_controller/metal.rb:237:in `block in action'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:76:in `dispatch'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:45:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `each'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:817:in `call'
+  rack (1.6.4) lib/rack/etag.rb:24:in `call'
+  rack (1.6.4) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.4) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.5) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.5) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  activerecord (4.2.5) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout (3.7ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 16:39:11 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+Completed 500 Internal Server Error in 46ms (ActiveRecord: 0.0ms)
+
+ActionView::MissingTemplate (Missing template articles/new, application/new with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/ubuntu/workspace/app/views"
+):
+  actionview (4.2.5) lib/action_view/path_set.rb:46:in `find'
+  actionview (4.2.5) lib/action_view/lookup_context.rb:121:in `find'
+  actionview (4.2.5) lib/action_view/renderer/abstract_renderer.rb:18:in `find_template'
+  actionview (4.2.5) lib/action_view/renderer/template_renderer.rb:40:in `determine_template'
+  actionview (4.2.5) lib/action_view/renderer/template_renderer.rb:8:in `render'
+  actionview (4.2.5) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionview (4.2.5) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionview (4.2.5) lib/action_view/rendering.rb:100:in `_render_template'
+  actionpack (4.2.5) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.2.5) lib/action_view/rendering.rb:83:in `render_to_body'
+  actionpack (4.2.5) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.2.5) lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+  actionpack (4.2.5) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.2.5) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.2.5) lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+  activesupport (4.2.5) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/benchmark.rb:308:in `realtime'
+  activesupport (4.2.5) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.2.5) lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+  actionpack (4.2.5) lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+  activerecord (4.2.5) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.2.5) lib/action_controller/metal/instrumentation.rb:43:in `render'
+  actionpack (4.2.5) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.2.5) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.2.5) lib/abstract_controller/base.rb:198:in `process_action'
+  actionpack (4.2.5) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.2.5) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:117:in `call'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:555:in `block (2 levels) in compile'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:505:in `call'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:92:in `__run_callbacks__'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:778:in `_run_process_action_callbacks'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.5) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.2.5) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.2.5) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+  activesupport (4.2.5) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.5) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.5) lib/active_support/notifications.rb:164:in `instrument'
+  actionpack (4.2.5) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.2.5) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  activerecord (4.2.5) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.2.5) lib/abstract_controller/base.rb:137:in `process'
+  actionview (4.2.5) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.5) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.2.5) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.5) lib/action_controller/metal.rb:237:in `block in action'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:76:in `dispatch'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:45:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `each'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:817:in `call'
+  rack (1.6.4) lib/rack/etag.rb:24:in `call'
+  rack (1.6.4) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.4) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.5) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.5) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  activerecord (4.2.5) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (21.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (138.5ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 16:40:34 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 593ms (Views: 572.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-14 16:40:35 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/articles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-14 16:40:35 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 35.40.84.135 at 2016-02-14 16:40:35 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-14 16:40:35 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 35.40.84.135 at 2016-02-14 16:40:35 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 35.40.84.135 at 2016-02-14 16:40:35 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 35.40.84.135 at 2016-02-14 16:40:35 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 35.40.84.135 at 2016-02-14 16:40:35 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-14 16:40:35 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 16:41:31 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (57.0ms)
+Completed 200 OK in 94ms (Views: 92.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-14 16:41:31 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/articles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-14 16:41:31 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-14 16:41:31 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 35.40.84.135 at 2016-02-14 16:41:31 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 35.40.84.135 at 2016-02-14 16:41:31 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 35.40.84.135 at 2016-02-14 16:41:31 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 35.40.84.135 at 2016-02-14 16:41:31 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-14 16:41:31 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 35.40.84.135 at 2016-02-14 16:41:31 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 16:42:03 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 37ms (Views: 34.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-14 16:42:03 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 35.40.84.135 at 2016-02-14 16:42:03 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 35.40.84.135 at 2016-02-14 16:42:03 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 35.40.84.135 at 2016-02-14 16:42:03 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-14 16:42:03 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 35.40.84.135 at 2016-02-14 16:42:03 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/articles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-14 16:42:03 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-14 16:42:03 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 35.40.84.135 at 2016-02-14 16:42:03 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 16:42:04 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 27ms (Views: 26.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-14 16:42:04 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-14 16:42:04 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 35.40.84.135 at 2016-02-14 16:42:04 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 35.40.84.135 at 2016-02-14 16:42:04 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 35.40.84.135 at 2016-02-14 16:42:04 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 35.40.84.135 at 2016-02-14 16:42:04 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/articles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-14 16:42:04 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-14 16:42:04 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 35.40.84.135 at 2016-02-14 16:42:04 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started POST "/articles" for 35.40.84.135 at 2016-02-14 16:42:05 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+AbstractController::ActionNotFound (The action 'create' could not be found for ArticlesController):
+  actionpack (4.2.5) lib/abstract_controller/base.rb:132:in `process'
+  actionview (4.2.5) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.5) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.2.5) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.5) lib/action_controller/metal.rb:237:in `block in action'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:76:in `dispatch'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:45:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `each'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:817:in `call'
+  rack (1.6.4) lib/rack/etag.rb:24:in `call'
+  rack (1.6.4) lib/rack/conditionalget.rb:38:in `call'
+  rack (1.6.4) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.5) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.5) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  activerecord (4.2.5) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout (0.7ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 16:43:20 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (45.0ms)
+Completed 200 OK in 417ms (Views: 397.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-14 16:43:21 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 35.40.84.135 at 2016-02-14 16:43:21 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 35.40.84.135 at 2016-02-14 16:43:21 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-14 16:43:21 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 35.40.84.135 at 2016-02-14 16:43:21 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 35.40.84.135 at 2016-02-14 16:43:21 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/articles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-14 16:43:21 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-14 16:43:21 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 35.40.84.135 at 2016-02-14 16:43:21 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started POST "/articles" for 35.40.84.135 at 2016-02-14 16:43:24 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+AbstractController::ActionNotFound (The action 'create' could not be found for ArticlesController):
+  actionpack (4.2.5) lib/abstract_controller/base.rb:132:in `process'
+  actionview (4.2.5) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.5) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.2.5) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.5) lib/action_controller/metal.rb:237:in `block in action'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:76:in `dispatch'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:45:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `each'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:817:in `call'
+  rack (1.6.4) lib/rack/etag.rb:24:in `call'
+  rack (1.6.4) lib/rack/conditionalget.rb:38:in `call'
+  rack (1.6.4) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.5) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.5) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  activerecord (4.2.5) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout (3.2ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 16:44:31 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 38ms (Views: 37.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 35.40.84.135 at 2016-02-14 16:44:39 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+mK/HUPpLDziSk6RTT0jgXgjjDmROIYDMmgwOw52nGlMNgAxC7tE8f92SAUN2grBvJI4sBoaMkFJsxK3GraIwQ==", "article"=>{"title"=>"Test 1 ", "text"=>"Article 111"}, "commit"=>"Save Article"}
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms)
+
+ActionView::MissingTemplate (Missing template articles/create, application/create with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/ubuntu/workspace/app/views"
+):
+  actionview (4.2.5) lib/action_view/path_set.rb:46:in `find'
+  actionview (4.2.5) lib/action_view/lookup_context.rb:121:in `find'
+  actionview (4.2.5) lib/action_view/renderer/abstract_renderer.rb:18:in `find_template'
+  actionview (4.2.5) lib/action_view/renderer/template_renderer.rb:40:in `determine_template'
+  actionview (4.2.5) lib/action_view/renderer/template_renderer.rb:8:in `render'
+  actionview (4.2.5) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionview (4.2.5) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionview (4.2.5) lib/action_view/rendering.rb:100:in `_render_template'
+  actionpack (4.2.5) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.2.5) lib/action_view/rendering.rb:83:in `render_to_body'
+  actionpack (4.2.5) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.2.5) lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+  actionpack (4.2.5) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.2.5) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.2.5) lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+  activesupport (4.2.5) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/benchmark.rb:308:in `realtime'
+  activesupport (4.2.5) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.2.5) lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+  actionpack (4.2.5) lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+  activerecord (4.2.5) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.2.5) lib/action_controller/metal/instrumentation.rb:43:in `render'
+  actionpack (4.2.5) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.2.5) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.2.5) lib/abstract_controller/base.rb:198:in `process_action'
+  actionpack (4.2.5) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.2.5) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:117:in `call'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:555:in `block (2 levels) in compile'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:505:in `call'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:92:in `__run_callbacks__'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:778:in `_run_process_action_callbacks'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.5) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.2.5) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.2.5) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+  activesupport (4.2.5) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.5) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.5) lib/active_support/notifications.rb:164:in `instrument'
+  actionpack (4.2.5) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.2.5) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  activerecord (4.2.5) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.2.5) lib/abstract_controller/base.rb:137:in `process'
+  actionview (4.2.5) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.5) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.2.5) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.5) lib/action_controller/metal.rb:237:in `block in action'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:76:in `dispatch'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:45:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `each'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:817:in `call'
+  rack (1.6.4) lib/rack/etag.rb:24:in `call'
+  rack (1.6.4) lib/rack/conditionalget.rb:38:in `call'
+  rack (1.6.4) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.5) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.5) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  activerecord (4.2.5) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (36.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (10.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (131.9ms)
+
+
+Started POST "/articles" for 35.40.84.135 at 2016-02-14 16:45:24 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+mK/HUPpLDziSk6RTT0jgXgjjDmROIYDMmgwOw52nGlMNgAxC7tE8f92SAUN2grBvJI4sBoaMkFJsxK3GraIwQ==", "article"=>{"title"=>"Test 1 ", "text"=>"Article 111"}, "commit"=>"Save Article"}
+  Rendered text template (0.0ms)
+Completed 200 OK in 10ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (23.6ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL) [0m
+  [1m[35m (0.2ms)[0m  select sqlite_version(*)
+  [1m[36m (17.9ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+Migrating to CreateArticles (20160214164613)
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.8ms)[0m  CREATE TABLE "articles" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "text" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20160214164613"]]
+  [1m[35m (13.4ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/" for 35.40.84.135 at 2016-02-14 16:51:21 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 255ms (Views: 240.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/" for 35.40.84.135 at 2016-02-14 16:51:27 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+AbstractController::ActionNotFound (The action 'index' could not be found for ArticlesController):
+  actionpack (4.2.5) lib/abstract_controller/base.rb:132:in `process'
+  actionview (4.2.5) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.5) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.2.5) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.5) lib/action_controller/metal.rb:237:in `block in action'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:76:in `dispatch'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:45:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `each'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:817:in `call'
+  rack (1.6.4) lib/rack/etag.rb:24:in `call'
+  rack (1.6.4) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.4) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.5) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.5) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  activerecord (4.2.5) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout (0.6ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 16:51:31 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (44.3ms)
+Completed 200 OK in 106ms (Views: 104.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 35.40.84.135 at 2016-02-14 16:51:41 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"MVVKRyxYNXEIOjn32RQFMgg1FqlIED2weOedupkJNnCHAfVrZApdvBUGP2OZ8yxyzISiIMMyifIDPL82jcki2A==", "article"=>{"title"=>"Test 2", "text"=>"alksdlka 222"}, "commit"=>"Save Article"}
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 1.1ms)
+
+ActiveModel::ForbiddenAttributesError (ActiveModel::ForbiddenAttributesError):
+  app/controllers/articles_controller.rb:6:in `create'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (83.1ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 16:53:21 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+AbstractController::ActionNotFound (The action 'index' could not be found for ArticlesController):
+  actionpack (4.2.5) lib/abstract_controller/base.rb:132:in `process'
+  actionview (4.2.5) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.5) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.2.5) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.5) lib/action_controller/metal.rb:237:in `block in action'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:76:in `dispatch'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:45:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `each'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:817:in `call'
+  rack (1.6.4) lib/rack/etag.rb:24:in `call'
+  rack (1.6.4) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.4) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.4) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.5) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.5) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  activerecord (4.2.5) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout (0.6ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 16:53:28 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 44ms (Views: 43.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 35.40.84.135 at 2016-02-14 16:53:38 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"wknNxxS2YbjF/KHvLGvijZe4IoEuJvO7HrjW670anMt0HXLrXOQJddjAp3tsjMvNUwmWCKUER/llY/RnqdqIYw==", "article"=>{"title"=>"Test 333", "text"=>"klkndalknsd3333"}, "commit"=>"Save Article"}
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 1.6ms)
+
+ActiveModel::ForbiddenAttributesError (ActiveModel::ForbiddenAttributesError):
+  app/controllers/articles_controller.rb:6:in `create'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (13.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (98.1ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 16:55:48 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (50.0ms)
+Completed 200 OK in 361ms (Views: 344.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 35.40.84.135 at 2016-02-14 16:55:56 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"6D4HO0ul5MFFzJPFK11etCC+BT86UGcXcVLfzI0fG/1eargXA/eMDFjwlVFrunf05A+xtrFy01UKif1Amd8PVQ==", "article"=>{"title"=>"Test 4", "text"=>"lashdlaks 4444"}, "commit"=>"Save Article"}
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 1.0ms)
+
+ActiveModel::ForbiddenAttributesError (ActiveModel::ForbiddenAttributesError):
+  app/controllers/articles_controller.rb:6:in `create'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (40.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (4.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (154.3ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 16:57:27 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 49ms (Views: 47.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 35.40.84.135 at 2016-02-14 16:57:36 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"lI4dZR/RF9Ucz2+688r88eD1IITcDvLKbL3rfOpaWNki2qJJV4N/GAHzaS6zLdWxJESUDVcsRogXZsnw/ppMcQ==", "article"=>{"title"=>"Test 5", "text"=>"ask;dnlakn5 5555"}, "commit"=>"Save Article"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (1.7ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Test 5"], ["text", "ask;dnlakn5 5555"], ["created_at", "2016-02-14 16:57:36.391941"], ["updated_at", "2016-02-14 16:57:36.391941"]]
+  [1m[35m (9.9ms)[0m  commit transaction
+Redirected to https://my-blog-demo-capenalo.c9users.io/articles/1
+Completed 302 Found in 53ms (ActiveRecord: 12.8ms)
+
+
+Started GET "/articles/1" for 35.40.84.135 at 2016-02-14 16:57:36 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendered articles/show.html.erb within layouts/application (7.8ms)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `title' for nil:NilClass):
+    1: <p>
+    2:   <strong>Title:</strong>
+    3:   <%= @article.title %>
+    4: </p>
+    5:  
+    6: <p>
+  app/views/articles/show.html.erb:3:in `_app_views_articles_show_html_erb___2291976491211769872_70101503034220'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (95.9ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 16:58:58 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (42.1ms)
+Completed 200 OK in 345ms (Views: 327.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 35.40.84.135 at 2016-02-14 16:59:12 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"L075jmz9IOxW5wUymIPGqKgsKhXY4FyG9mT5hNNx2QaZGkaiJK9IIUvbA6bYZO/obJ2enFPC6MSNv9sIx7HNrg==", "article"=>{"title"=>"Test 6", "text"=>"ksajdlka 666666"}, "commit"=>"Save Article"}
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mSQL (0.9ms)[0m  [1mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Test 6"], ["text", "ksajdlka 666666"], ["created_at", "2016-02-14 16:59:12.162440"], ["updated_at", "2016-02-14 16:59:12.162440"]]
+  [1m[35m (12.5ms)[0m  commit transaction
+Redirected to https://my-blog-demo-capenalo.c9users.io/articles/2
+Completed 302 Found in 49ms (ActiveRecord: 14.4ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-14 16:59:12 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  Rendered articles/show.html.erb within layouts/application (10.5ms)
+Completed 500 Internal Server Error in 16ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined method `title' for nil:NilClass):
+    1: <p>
+    2:   <strong>Title:</strong>
+    3:   <%= @article.title %>
+    4: </p>
+    5:  
+    6: <p>
+  app/views/articles/show.html.erb:3:in `_app_views_articles_show_html_erb__838125539932642345_70316040229260'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (13.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (115.1ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 17:02:13 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 35ms (Views: 32.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 35.40.84.135 at 2016-02-14 17:02:25 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"v2I8gne/nd3XEzTHrcmq947Fw01Su1VFEj2GhbpJsEcJNoOuP+31EMovMlPtLoO3SnR3xNmZ4Qdp5qQJromk7w==", "article"=>{"title"=>"Test 7", "text"=>"lsdalknd 777"}, "commit"=>"Save Article"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["title", "Test 7"], ["text", "lsdalknd 777"], ["created_at", "2016-02-14 17:02:25.667890"], ["updated_at", "2016-02-14 17:02:25.667890"]]
+  [1m[36m (10.8ms)[0m  [1mcommit transaction[0m
+Redirected to https://my-blog-demo-capenalo.c9users.io/articles/3
+Completed 302 Found in 28ms (ActiveRecord: 12.7ms)
+
+
+Started GET "/articles/3" for 35.40.84.135 at 2016-02-14 17:02:25 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mArticle Load (0.4ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered articles/show.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 61ms (Views: 36.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 17:03:38 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 35.40.84.135 at 2016-02-14 17:03:49 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"kFqnJu3DyUGse03v3lOrhIz0QvPw2yoi3GdWiY6Rg+kmDhgKpZGhjLFHS3uetILESEX2env5nmCnvHQFmlGXQQ==", "article"=>{"title"=>"Test 8", "text"=>"kasdjalksd 8888\\"}, "commit"=>"Save Article"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["title", "Test 8"], ["text", "kasdjalksd 8888\\"], ["created_at", "2016-02-14 17:03:49.870969"], ["updated_at", "2016-02-14 17:03:49.870969"]]
+  [1m[36m (10.6ms)[0m  [1mcommit transaction[0m
+Redirected to https://my-blog-demo-capenalo.c9users.io/articles/4
+Completed 302 Found in 33ms (ActiveRecord: 12.6ms)
+
+
+Started GET "/articles/4" for 35.40.84.135 at 2016-02-14 17:03:49 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[35mArticle Load (0.5ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 4]]
+  Rendered articles/show.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 31ms (Views: 27.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 17:05:28 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 53ms (Views: 51.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:05:32 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (10.7ms)
+Completed 200 OK in 91ms (Views: 85.7ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/" for 35.40.84.135 at 2016-02-14 17:08:11 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 128ms (Views: 126.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:08:13 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.9ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 33ms (Views: 31.2ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 17:08:15 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 31ms (Views: 30.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 35.40.84.135 at 2016-02-14 17:08:22 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Otm7YjqVikQaqCVGfS1uquGR09tgH0ygCTbiTVL92C6MjQROcsfiiQeUI9I9ykfqJSBnUus9+OJy7cDBRj3Mhg==", "article"=>{"title"=>"Test 9", "text"=>"lndlak 99999"}, "commit"=>"Save Article"}
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["title", "Test 9"], ["text", "lndlak 99999"], ["created_at", "2016-02-14 17:08:22.597017"], ["updated_at", "2016-02-14 17:08:22.597017"]]
+  [1m[36m (16.3ms)[0m  [1mcommit transaction[0m
+Redirected to https://my-blog-demo-capenalo.c9users.io/articles/5
+Completed 302 Found in 25ms (ActiveRecord: 17.0ms)
+
+
+Started GET "/articles/5" for 35.40.84.135 at 2016-02-14 17:08:22 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[35mArticle Load (0.5ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 5]]
+  Rendered articles/show.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 35ms (Views: 31.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:08:24 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.4ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 38ms (Views: 36.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 17:11:49 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 48ms (Views: 36.7ms | ActiveRecord: 1.0ms)
+
+
+Started POST "/articles" for 35.40.84.135 at 2016-02-14 17:11:53 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"91C1Y1G+W/d83UhlRtI/1+xBjgoGDooPj7YuotTzJ7ZBBApPGewzOmHhTvEGNRaXKPA6g40sPk30bQwuwDMzHg==", "article"=>{"title"=>"", "text"=>"asm,ad,md"}, "commit"=>"Save Article"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered articles/new.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 30ms (Views: 24.2ms | ActiveRecord: 0.2ms)
+
+
+Started POST "/articles" for 35.40.84.135 at 2016-02-14 17:11:55 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Qr6R3WywcNVa5aC8mkgAZuuD1126HDwZ88PDMoebsoL06i7xJOIYGEfZpijarykmLzJj1DE+iFuIGOG+k1umKg==", "article"=>{"title"=>"", "text"=>"asm,ad,md"}, "commit"=>"Save Article"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered articles/new.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 33ms (Views: 29.1ms | ActiveRecord: 0.2ms)
+
+
+Started POST "/articles" for 35.40.84.135 at 2016-02-14 17:13:26 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"HaoiLBe1w3nrj0IDBuOAuRxbOO4ylLEiIegO9911pr6r/p0AX+ertPazRJdGBKn52OqMZ7m2BWBaMyx7ybWyFg==", "article"=>{"title"=>"", "text"=>"asm,ad,md"}, "commit"=>"Save Article"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered articles/new.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 58ms (Views: 52.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:22:28 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.7ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 58ms (Views: 51.8ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/" for 35.40.84.135 at 2016-02-14 17:22:31 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 57ms (Views: 56.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:22:33 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.4ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 33ms (Views: 31.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles/1" for 35.40.84.135 at 2016-02-14 17:22:35 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mArticle Load (0.4ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered articles/show.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 34ms (Views: 30.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles/1/edit" for 35.40.84.135 at 2016-02-14 17:22:38 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered articles/edit.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 41ms (Views: 38.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:22:40 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.5ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 48ms (Views: 46.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/articles/1" for 35.40.84.135 at 2016-02-14 17:22:41 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered articles/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 31ms (Views: 29.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles/1/edit" for 35.40.84.135 at 2016-02-14 17:22:42 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mArticle Load (0.3ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered articles/edit.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 47ms (Views: 44.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 17:22:46 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/new.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 30ms (Views: 28.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:22:48 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.4ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 45ms (Views: 43.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:30:00 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.6ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (12.2ms)
+Completed 200 OK in 51ms (Views: 43.4ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 17:30:08 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/_form.html.erb (5.4ms)
+  Rendered articles/new.html.erb within layouts/application (17.2ms)
+Completed 200 OK in 47ms (Views: 45.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:30:09 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 32ms (Views: 31.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/2/edit" for 35.40.84.135 at 2016-02-14 17:30:11 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mArticle Load (0.3ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 2]]
+  Rendered articles/_form.html.erb (3.2ms)
+  Rendered articles/edit.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 39ms (Views: 36.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:30:12 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 37ms (Views: 36.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/4" for 35.40.84.135 at 2016-02-14 17:30:14 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[35mArticle Load (0.3ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 4]]
+  Rendered articles/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 30ms (Views: 28.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/4/edit" for 35.40.84.135 at 2016-02-14 17:30:15 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 4]]
+  Rendered articles/_form.html.erb (2.1ms)
+  Rendered articles/edit.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 40ms (Views: 38.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:30:16 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.3ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 30ms (Views: 29.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 17:30:17 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/_form.html.erb (2.3ms)
+  Rendered articles/new.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 42ms (Views: 40.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 35.40.84.135 at 2016-02-14 17:30:19 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"2nhTY4G2cxsxgvz64DkiTj2NzNpxvRRdZKpbfjkEUiVsLOxPyeQb1iy++m6g3gsO+Tx4U/qfoB8fcXnyLcRGjQ==", "article"=>{"title"=>"", "text"=>""}, "commit"=>"Create Article"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered articles/_form.html.erb (6.2ms)
+  Rendered articles/new.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 39ms (Views: 34.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:30:41 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.4ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 38ms (Views: 36.8ms | ActiveRecord: 0.4ms)
+
+
+Started DELETE "/articles/1" for 35.40.84.135 at 2016-02-14 17:30:47 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"Y7/1BDy/gMLkYrJSk9/UphtVClNS08g6aIqyTLGNd5PV60oodO3oD/letMbTOP3m3+S+2tnxfHgTUZDApU1jOw==", "id"=>"1"}
+  [1m[35mArticle Load (0.3ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.7ms)[0m  DELETE FROM "articles" WHERE "articles"."id" = ?  [["id", 1]]
+  [1m[36m (10.6ms)[0m  [1mcommit transaction[0m
+Redirected to https://my-blog-demo-capenalo.c9users.io/articles
+Completed 302 Found in 18ms (ActiveRecord: 11.7ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:30:47 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.4ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 46ms (Views: 44.5ms | ActiveRecord: 0.4ms)
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateComments (20160214173425)
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.7ms)[0m  [1mCREATE TABLE "comments" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "commenter" varchar, "body" text, "article_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (0.2ms)[0m  select sqlite_version(*)
+  [1m[36m (0.1ms)[0m  [1mCREATE  INDEX "index_comments_on_article_id" ON "comments" ("article_id")[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20160214173425"]]
+  [1m[36m (16.1ms)[0m  [1mcommit transaction[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.3ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.3ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_comments_on_article_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_comments_on_article_id' AND type='index'
+[0m
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:44:35 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.4ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (14.1ms)
+Completed 200 OK in 508ms (Views: 477.5ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/assets/comments.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-14 17:44:36 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/comments.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-14 17:44:36 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 35.40.84.135 at 2016-02-14 17:44:41 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 76ms (Views: 74.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:44:43 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 55ms (Views: 54.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-14 17:44:45 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mArticle Load (0.3ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 2]]
+  Rendered articles/show.html.erb within layouts/application (141.5ms)
+Completed 200 OK in 207ms (Views: 177.4ms | ActiveRecord: 1.5ms)
+
+
+Started POST "/articles/2/comments" for 35.40.84.135 at 2016-02-14 17:45:02 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Xz3DXfZlswr4vIMNF6+GoV6Q1LSHmsl+x/Dn9Abw3TLpaXxxvjfbx+WAhZlXSK/hmiFgPQy4fTy8K8V4EjDJmg==", "comment"=>{"commenter"=>"User 1", "body"=>"Askdnasd ajs343jk asd"}, "commit"=>"Create Comment", "article_id"=>"2"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "comments" ("commenter", "body", "article_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["commenter", "User 1"], ["body", "Askdnasd ajs343jk asd"], ["article_id", 2], ["created_at", "2016-02-14 17:45:02.873575"], ["updated_at", "2016-02-14 17:45:02.873575"]]
+  [1m[36m (12.6ms)[0m  [1mcommit transaction[0m
+Redirected to https://my-blog-demo-capenalo.c9users.io/articles/2
+Completed 302 Found in 19ms (ActiveRecord: 13.4ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-14 17:45:02 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mComment Load (0.1ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 2]]
+  Rendered articles/show.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 37ms (Views: 35.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:45:05 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.3ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 165ms (Views: 163.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 17:45:07 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+  Rendered articles/_form.html.erb (7.1ms)
+  Rendered articles/new.html.erb within layouts/application (19.1ms)
+Completed 200 OK in 62ms (Views: 61.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:45:08 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 42ms (Views: 40.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-14 17:45:11 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 2]]
+  Rendered articles/show.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 42ms (Views: 40.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 35.40.84.135 at 2016-02-14 17:49:03 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 56ms (Views: 54.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:49:06 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.6ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 59ms (Views: 56.5ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-14 17:49:07 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?  [["article_id", 2]]
+  Rendered comments/_comment.html.erb (0.6ms)
+  Rendered comments/_form.html.erb (3.2ms)
+  Rendered articles/show.html.erb within layouts/application (12.1ms)
+Completed 200 OK in 50ms (Views: 48.2ms | ActiveRecord: 0.4ms)
+
+
+Started POST "/articles/2/comments" for 35.40.84.135 at 2016-02-14 17:49:13 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+8olbvxLrrOl7exessE0W2mEaMSJwYBuhZVLYnLUdptNnppCtBnGfrjR6sryJh0brTXcTQLjNCz+TmnuZhRiMw==", "comment"=>{"commenter"=>"m,n,amsda", "body"=>""}, "commit"=>"Create Comment", "article_id"=>"2"}
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "comments" ("commenter", "body", "article_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["commenter", "m,n,amsda"], ["body", ""], ["article_id", 2], ["created_at", "2016-02-14 17:49:13.508083"], ["updated_at", "2016-02-14 17:49:13.508083"]]
+  [1m[35m (14.4ms)[0m  commit transaction
+Redirected to https://my-blog-demo-capenalo.c9users.io/articles/2
+Completed 302 Found in 23ms (ActiveRecord: 15.5ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-14 17:49:13 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?  [["article_id", 2]]
+  Rendered comments/_comment.html.erb (0.6ms)
+  Rendered comments/_form.html.erb (3.8ms)
+  Rendered articles/show.html.erb within layouts/application (9.7ms)
+Completed 200 OK in 44ms (Views: 42.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:49:20 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 47ms (Views: 46.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-14 17:49:21 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 2]]
+  Rendered comments/_comment.html.erb (0.1ms)
+  Rendered comments/_form.html.erb (2.8ms)
+  Rendered articles/show.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 71ms (Views: 69.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles/3" for 35.40.84.135 at 2016-02-14 17:49:26 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 3]]
+  Rendered collection (0.0ms)
+  Rendered comments/_form.html.erb (2.8ms)
+  Rendered articles/show.html.erb within layouts/application (6.8ms)
+Completed 200 OK in 53ms (Views: 49.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:50:23 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (1.4ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 48ms (Views: 44.4ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-14 17:50:24 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?  [["article_id", 2]]
+  Rendered comments/_comment.html.erb (0.2ms)
+  Rendered comments/_form.html.erb (3.5ms)
+  Rendered articles/show.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 48ms (Views: 45.5ms | ActiveRecord: 0.4ms)
+
+
+Started POST "/articles/2/comments" for 35.40.84.135 at 2016-02-14 17:50:30 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"vypyjV5rV9SQJTW4WCPsiyUNZIo+/PjeKTt2AfG5P+0Jfs2hFjk/GY0ZMywYxMXL4bzQA7XeTJxS4FSN5XkrRQ==", "comment"=>{"commenter"=>"ndlnasldkasnd", "body"=>"lkansdlasnd\r\n "}, "commit"=>"Create Comment", "article_id"=>"2"}
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "comments" ("commenter", "body", "article_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["commenter", "ndlnasldkasnd"], ["body", "lkansdlasnd\r\n "], ["article_id", 2], ["created_at", "2016-02-14 17:50:30.975563"], ["updated_at", "2016-02-14 17:50:30.975563"]]
+  [1m[35m (9.6ms)[0m  commit transaction
+Redirected to https://my-blog-demo-capenalo.c9users.io/articles/2
+Completed 302 Found in 17ms (ActiveRecord: 10.5ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-14 17:50:31 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?  [["article_id", 2]]
+  Rendered comments/_comment.html.erb (0.2ms)
+  Rendered comments/_form.html.erb (3.1ms)
+  Rendered articles/show.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 45ms (Views: 42.6ms | ActiveRecord: 0.5ms)
+
+
+Started POST "/articles/2/comments" for 35.40.84.135 at 2016-02-14 17:50:36 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"tJSrjXYWdlol+51ox+P6YiZmKvs1NuzUR2kHXmdxzncCwBShPkQelzjHm/yHBNMi4teecr4UWJY8siXSc7Ha3w==", "comment"=>{"commenter"=>",msd a,msd ad,ms", "body"=>",asdm as,md "}, "commit"=>"Create Comment", "article_id"=>"2"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "comments" ("commenter", "body", "article_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["commenter", ",msd a,msd ad,ms"], ["body", ",asdm as,md "], ["article_id", 2], ["created_at", "2016-02-14 17:50:36.264932"], ["updated_at", "2016-02-14 17:50:36.264932"]]
+  [1m[35m (10.6ms)[0m  commit transaction
+Redirected to https://my-blog-demo-capenalo.c9users.io/articles/2
+Completed 302 Found in 19ms (ActiveRecord: 11.2ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-14 17:50:36 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.4ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mComment Load (0.3ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?  [["article_id", 2]]
+  Rendered comments/_comment.html.erb (0.3ms)
+  Rendered comments/_form.html.erb (4.5ms)
+  Rendered articles/show.html.erb within layouts/application (11.7ms)
+Completed 200 OK in 48ms (Views: 45.3ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:50:40 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 35ms (Views: 33.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:52:08 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.8ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (10.2ms)
+Completed 200 OK in 52ms (Views: 44.8ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-14 17:52:10 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.5ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mComment Load (0.4ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?  [["article_id", 2]]
+  Rendered comments/_comment.html.erb (3.7ms)
+  Rendered comments/_form.html.erb (7.4ms)
+  Rendered articles/show.html.erb within layouts/application (42.5ms)
+Completed 200 OK in 86ms (Views: 81.5ms | ActiveRecord: 1.5ms)
+
+
+Started DELETE "/articles/2/comments/4" for 35.40.84.135 at 2016-02-14 17:52:13 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CommentsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"n5MDXqSKuorIU5CmxZt3HpV9VJd0GRjI0CmaxhXbhDYpx7xy7NjSR9VvljKFfF5eUczgHv87rIqr8rhKARuQng==", "article_id"=>"2", "id"=>"4"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mComment Load (0.3ms)[0m  SELECT  "comments".* FROM "comments" WHERE "comments"."article_id" = ? AND "comments"."id" = ? LIMIT 1  [["article_id", 2], ["id", 4]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  DELETE FROM "comments" WHERE "comments"."id" = ?  [["id", 4]]
+  [1m[36m (12.0ms)[0m  [1mcommit transaction[0m
+Redirected to https://my-blog-demo-capenalo.c9users.io/articles/2
+Completed 302 Found in 21ms (ActiveRecord: 13.1ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-14 17:52:13 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 2]]
+  Rendered comments/_comment.html.erb (2.2ms)
+  Rendered comments/_form.html.erb (3.7ms)
+  Rendered articles/show.html.erb within layouts/application (11.1ms)
+Completed 200 OK in 53ms (Views: 51.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:52:17 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.3ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 50ms (Views: 35.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 17:55:00 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.7ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (10.3ms)
+Completed 200 OK in 54ms (Views: 47.0ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-14 17:55:02 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mArticle Load (0.3ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 2]]
+  Rendered comments/_comment.html.erb (4.3ms)
+  Rendered comments/_form.html.erb (3.0ms)
+  Rendered articles/show.html.erb within layouts/application (24.8ms)
+Completed 200 OK in 54ms (Views: 51.2ms | ActiveRecord: 1.0ms)
+
+
+Started DELETE "/articles/2/comments/3" for 35.40.84.135 at 2016-02-14 17:55:05 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CommentsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"IFfjso3QmKoOODABk1sRE6NZl8kQqm73IMODFaC6WVuWA1yexYLwZxMENpXTvDhTZ+gjQJuI2rVbGKGZtHpN8w==", "article_id"=>"2", "id"=>"3"}
+Filter chain halted as #<Proc:0x007f5c9dfc2a00@/usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_controller/metal/http_authentication.rb:69> rendered or redirected
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 17:55:18 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+Filter chain halted as #<Proc:0x007f5c98a822e8@/usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_controller/metal/http_authentication.rb:69> rendered or redirected
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-14 17:55:20 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+Filter chain halted as #<Proc:0x007f5c98a822e8@/usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_controller/metal/http_authentication.rb:69> rendered or redirected
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 35.40.84.135 at 2016-02-14 18:38:21 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 262ms (Views: 248.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-14 18:38:22 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-14 18:38:22 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 35.40.84.135 at 2016-02-14 18:38:22 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 35.40.84.135 at 2016-02-14 18:38:22 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/comments.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-14 18:38:22 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 35.40.84.135 at 2016-02-14 18:38:22 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 35.40.84.135 at 2016-02-14 18:38:22 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/articles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-14 18:38:22 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/comments.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-14 18:38:22 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-14 18:38:22 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 35.40.84.135 at 2016-02-14 18:38:22 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-14 18:38:25 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.3ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (18.3ms)
+Completed 200 OK in 159ms (Views: 145.7ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-14 18:38:27 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (1.1ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mComment Load (0.4ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?  [["article_id", 2]]
+  Rendered comments/_comment.html.erb (6.1ms)
+  Rendered comments/_form.html.erb (50.0ms)
+  Rendered articles/show.html.erb within layouts/application (207.9ms)
+Completed 200 OK in 262ms (Views: 232.6ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/" for 35.40.84.135 at 2016-02-15 00:49:27 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 312ms (Views: 295.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-15 00:49:28 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/comments.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-15 00:49:28 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 35.40.84.135 at 2016-02-15 00:49:28 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 35.40.84.135 at 2016-02-15 00:49:28 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 35.40.84.135 at 2016-02-15 00:49:28 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 35.40.84.135 at 2016-02-15 00:49:28 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 35.40.84.135 at 2016-02-15 00:49:28 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/articles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-15 00:49:28 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-15 00:49:28 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/comments.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 35.40.84.135 at 2016-02-15 00:49:28 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 35.40.84.135 at 2016-02-15 00:49:28 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-15 00:49:31 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.3ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (14.4ms)
+Completed 200 OK in 74ms (Views: 61.5ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-15 00:49:35 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+Filter chain halted as #<Proc:0x007f1e04eac350@/usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_controller/metal/http_authentication.rb:69> rendered or redirected
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for 35.40.84.135 at 2016-02-15 00:49:37 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#new as HTML
+Filter chain halted as #<Proc:0x007f1e04eac350@/usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_controller/metal/http_authentication.rb:69> rendered or redirected
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-15 00:49:41 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.4ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 32ms (Views: 30.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-15 00:49:42 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mArticle Load (0.4ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 2]]
+  Rendered comments/_comment.html.erb (6.0ms)
+  Rendered comments/_form.html.erb (44.0ms)
+  Rendered articles/show.html.erb within layouts/application (222.5ms)
+Completed 200 OK in 288ms (Views: 263.0ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for 35.40.84.135 at 2016-02-15 00:50:30 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 27ms (Views: 26.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-15 00:50:33 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.7ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 43ms (Views: 38.0ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-15 00:50:35 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?  [["article_id", 2]]
+  Rendered comments/_comment.html.erb (1.4ms)
+  Rendered comments/_form.html.erb (2.2ms)
+  Rendered articles/show.html.erb within layouts/application (19.1ms)
+Completed 200 OK in 51ms (Views: 48.9ms | ActiveRecord: 0.9ms)
+
+
+Started POST "/articles/2/comments" for 35.40.84.135 at 2016-02-15 00:50:41 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"wE8UFERAlFWqbvgtuU2RniEqP72R2qg05rRBD2kaWnkHN5RpZJHfGbL6MxkqbtIGWoVWoSzf22ieKomysm8hbA==", "comment"=>{"commenter"=>"kasjdalskjda", "body"=>"lkasdlaksd"}, "commit"=>"Create Comment", "article_id"=>"2"}
+  [1m[36mArticle Load (0.3ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "comments" ("commenter", "body", "article_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["commenter", "kasjdalskjda"], ["body", "lkasdlaksd"], ["article_id", 2], ["created_at", "2016-02-15 00:50:41.624446"], ["updated_at", "2016-02-15 00:50:41.624446"]]
+  [1m[35m (9.4ms)[0m  commit transaction
+Redirected to https://blog-app-heroku-capenalo.c9users.io/articles/2
+Completed 302 Found in 19ms (ActiveRecord: 10.3ms)
+
+
+Started GET "/articles/2" for 35.40.84.135 at 2016-02-15 00:50:41 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mComment Load (0.1ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?  [["article_id", 2]]
+  Rendered comments/_comment.html.erb (1.5ms)
+  Rendered comments/_form.html.erb (4.3ms)
+  Rendered articles/show.html.erb within layouts/application (11.6ms)
+Completed 200 OK in 47ms (Views: 45.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/2/edit" for 35.40.84.135 at 2016-02-15 00:50:44 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"2"}
+Filter chain halted as #<Proc:0x007f1df0388b18@/usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_controller/metal/http_authentication.rb:69> rendered or redirected
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/2/edit" for 35.40.84.135 at 2016-02-15 00:50:48 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  Rendered articles/_form.html.erb (4.0ms)
+  Rendered articles/edit.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 128ms (Views: 40.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-15 00:50:52 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.3ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 49ms (Views: 48.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/2/edit" for 35.40.84.135 at 2016-02-15 00:50:54 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  Rendered articles/_form.html.erb (3.0ms)
+  Rendered articles/edit.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 54ms (Views: 51.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-15 00:50:56 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.3ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 159ms (Views: 157.9ms | ActiveRecord: 0.3ms)
+
+
+Started DELETE "/articles/2" for 35.40.84.135 at 2016-02-15 00:50:59 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"c8A/10G7461qsc2V5k1MxLckgZdpR5HilkM40Q7Ofm60uL+qYWqo4XIlBqF1bg9czIvoi9RC4r7u3fBs1bsFew==", "id"=>"2"}
+Filter chain halted as #<Proc:0x007f1df0388b18@/usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_controller/metal/http_authentication.rb:69> rendered or redirected
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started DELETE "/articles/2" for 35.40.84.135 at 2016-02-15 00:50:59 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"c8A/10G7461qsc2V5k1MxLckgZdpR5HilkM40Q7Ofm60uL+qYWqo4XIlBqF1bg9czIvoi9RC4r7u3fBs1bsFew==", "id"=>"2"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 2]]
+  [1m[35mSQL (0.3ms)[0m  DELETE FROM "comments" WHERE "comments"."id" = ?  [["id", 1]]
+  [1m[36mSQL (0.0ms)[0m  [1mDELETE FROM "comments" WHERE "comments"."id" = ?[0m  [["id", 2]]
+  [1m[35mSQL (0.1ms)[0m  DELETE FROM "comments" WHERE "comments"."id" = ?  [["id", 3]]
+  [1m[36mSQL (0.0ms)[0m  [1mDELETE FROM "comments" WHERE "comments"."id" = ?[0m  [["id", 5]]
+  [1m[35mSQL (0.2ms)[0m  DELETE FROM "articles" WHERE "articles"."id" = ?  [["id", 2]]
+  [1m[36m (9.3ms)[0m  [1mcommit transaction[0m
+Redirected to https://blog-app-heroku-capenalo.c9users.io/articles
+Completed 302 Found in 18ms (ActiveRecord: 10.5ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-15 00:50:59 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.4ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 32ms (Views: 30.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles/3" for 35.40.84.135 at 2016-02-15 00:51:01 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mComment Load (0.1ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?  [["article_id", 3]]
+  Rendered collection (0.0ms)
+  Rendered comments/_form.html.erb (4.2ms)
+  Rendered articles/show.html.erb within layouts/application (178.0ms)
+Completed 200 OK in 211ms (Views: 209.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 35.40.84.135 at 2016-02-15 00:51:07 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 30ms (Views: 29.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 35.40.84.135 at 2016-02-15 00:51:10 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.6ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 28ms (Views: 27.1ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/articles/5/edit" for 35.40.84.135 at 2016-02-15 00:51:13 +0000
+Cannot render console from 35.40.84.135! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"5"}
+  [1m[35mArticle Load (0.2ms)[0m  SELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT 1  [["id", 5]]
+  Rendered articles/_form.html.erb (2.1ms)
+  Rendered articles/edit.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 124ms (Views: 30.9ms | ActiveRecord: 0.2ms)
